@@ -1,5 +1,5 @@
 # Crash_Severity_Prediction_by-Prajjwal_Paudel
-First Machine Learning project which predicts crash severity from logistic regression model from the factors like traffic controls, road defects, weather condition, lighting condition etc. 
+Machine Learning project which predicts crash severity from logistic regression model from the factors like traffic controls, road defects, weather condition, lighting condition etc. 
 Traffic Accident Data Source: https://www.kaggle.com/code/maorshalev/traffic-accidents/input
 Download all (.py, .ipynb, .pkl) files in a folder
 In model_deploy.py file, go to terminal and run streamlit
